@@ -1,0 +1,15 @@
+C:\Users\S.K.Gelium\C-\001_HellouConsole\bin\Debug\net7.0\001_HellouConsole.exe
+C:\Users\S.K.Gelium\C-\001_HellouConsole\bin\Debug\net7.0\001_HellouConsole.deps.json
+C:\Users\S.K.Gelium\C-\001_HellouConsole\bin\Debug\net7.0\001_HellouConsole.runtimeconfig.json
+C:\Users\S.K.Gelium\C-\001_HellouConsole\bin\Debug\net7.0\001_HellouConsole.dll
+C:\Users\S.K.Gelium\C-\001_HellouConsole\bin\Debug\net7.0\001_HellouConsole.pdb
+C:\Users\S.K.Gelium\C-\001_HellouConsole\obj\Debug\net7.0\001_HellouConsole.csproj.AssemblyReference.cache
+C:\Users\S.K.Gelium\C-\001_HellouConsole\obj\Debug\net7.0\001_HellouConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S.K.Gelium\C-\001_HellouConsole\obj\Debug\net7.0\001_HellouConsole.AssemblyInfoInputs.cache
+C:\Users\S.K.Gelium\C-\001_HellouConsole\obj\Debug\net7.0\001_HellouConsole.AssemblyInfo.cs
+C:\Users\S.K.Gelium\C-\001_HellouConsole\obj\Debug\net7.0\001_HellouConsole.csproj.CoreCompileInputs.cache
+C:\Users\S.K.Gelium\C-\001_HellouConsole\obj\Debug\net7.0\001_HellouConsole.dll
+C:\Users\S.K.Gelium\C-\001_HellouConsole\obj\Debug\net7.0\refint\001_HellouConsole.dll
+C:\Users\S.K.Gelium\C-\001_HellouConsole\obj\Debug\net7.0\001_HellouConsole.pdb
+C:\Users\S.K.Gelium\C-\001_HellouConsole\obj\Debug\net7.0\001_HellouConsole.genruntimeconfig.cache
+C:\Users\S.K.Gelium\C-\001_HellouConsole\obj\Debug\net7.0\ref\001_HellouConsole.dll
